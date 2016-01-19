@@ -1,0 +1,12 @@
+{
+  "name": "00_hello",
+  "dependencies": {
+    "botkit": "0.0.5"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-util": "^3.0.7"
+  }
+}
